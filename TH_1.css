@@ -61,3 +61,8 @@ body{
     border: 1px solid #CDCDCD;
     background-color: #F8F8FF;
 }
+.main {
+    flex: 70%;
+    background-color: red;
+    padding: 20px;
+}
